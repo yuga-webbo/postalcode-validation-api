@@ -1,0 +1,23 @@
+body {
+  font-family: Lato;
+  margin: 0;
+  padding: 0;
+}
+
+.github-ribbon {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+footer {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-top: 20px;
+  text-align:center;
+}
+
+footer img {
+  vertical-align: bottom;
+  width: 20px;
+}
